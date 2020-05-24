@@ -1,4 +1,4 @@
-<a href="https://github.com/stevejkang/bookmarks"><img src="https://raw.githubusercontent.com/stevejkang/emoji-for-readme/master/emoji/books.png" align="right" width="90" height="90" /></a>
+<a href="https://github.com/stevejkang/bookmarks"><img src="https://raw.githubusercontent.com/stevejkang/emoji-for-readme/master/emoji/bookmark.png" align="right" width="90" height="90" /></a>
 
 # bookmarks
 
